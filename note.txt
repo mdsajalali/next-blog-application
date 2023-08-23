@@ -1,1 +1,1 @@
-https://sajalblogapplication.vercel.app
+https://sajal-next-blog-application.vercel.app/
