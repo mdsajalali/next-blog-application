@@ -1,6 +1,6 @@
 ## Creating a Blog Application
 
-#### Live Preview: [SajalBlogApplication](sajal-next-blog-application.vercel.app/)
+#### Live Preview: [SajalBlogApplication](https://sajal-next-blog-application.vercel.app/)
 
 ### Task 1:
 
