@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "Getting Started with Next.js",
+      "content": "This is a blog post about how to get started with Next.js...",
+      "image":"https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1031&q=80",
+      "date":"12/04/2023"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Next.js Techniques",
+      "content": "In this blog post, we'll explore some advanced techniques...",
+      "image":"https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+       "date":"12/04/2023"
+    },
+    {
+      "id": 3,
+      "title": "Mastering React Hooks Management",
+      "content": "Learn how to use React hooks effectively in your projects...",
+      "image": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=725&q=80",
+       "date":"12/04/2023"
+    },
+    {
+      "id": 4,
+      "title": "Introduction to Web Accessibility",
+      "content": "Discover the importance of web accessibility and how to ...",
+      "image": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHByb2dyYW1taW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+       "date":"12/04/2023"
+    },
+    {
+      "id": 5,
+      "title": "CSS Grid Layout for Responsive Web Design",
+      "content": "Learn how to create flexible and responsive layouts using CSS grid...",
+      "image": "https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+       "date":"12/04/2023"
+    },
+    {
+      "id": 6,
+      "title": "Optimizing Performance in React Apps",
+      "content": "Explore strategies to optimize performance in your React applications...",
+      "image": "https://images.unsplash.com/photo-1585079542156-2755d9c8a094?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=774&q=80",
+       "date":"12/04/2023"
+    },
+    {
+      "id": 7,
+      "title": "Introduction to GraphQL",
+      "content": "Learn how to use GraphQL to efficiently fetch data in your applications...",
+      "image": "https://images.unsplash.com/photo-1534665482403-a909d0d97c67?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80",
+       "date":"12/04/2023"
+    }
+    
+  ]
