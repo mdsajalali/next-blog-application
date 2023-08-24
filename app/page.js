@@ -1,6 +1,7 @@
 import Link from "next/link";
 import GetAllCategories from "./api/getAllCategories";
 import GetLatestPosts from "./api/getLtestPosts";
+import NewsLetter from "./components/NewsLetter";
 
 export default async function Home() {
     const latestPosts = await GetLatestPosts();
@@ -78,6 +79,7 @@ export default async function Home() {
                     </div>
                 </div>
             </section>
+            <NewsLetter />
         </>
     );
 }

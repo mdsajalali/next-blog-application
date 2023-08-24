@@ -17,7 +17,8 @@ export default function RootLayout({ children }) {
                 <div className="navbar bg-gray-900 p-1 text-white flex justify-end">
                     <Navbar></Navbar>
                 </div>
-                <main className="m-4">{children}</main>
+                <main className="m-4">{children}
+                </main>
                 <Footer></Footer>
             </body>
         </html>
